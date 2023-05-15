@@ -1,0 +1,617 @@
+26 26
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+X......X..T...X.....X....X
+X......X......X.....X....X
+X......X......X.....X....X
+X..K...X......X..K..X....X
+X......X......X.....X....X
+X......X......X.....X....X
+X......X......X.....X....X
+X......X......X.....X....X
+X......X......X.....X....X
+X......X......X.....X....X
+X......X......X.....X....X
+XXX.XXXX......XXX.XXXX..GX
+X........................X
+X........................X
+X........................X
+X........................X
+X...........K............X
+X........................X
+X........................X
+X........................X
+X......XXX.XXXXXXX......GX
+X......X......X.....X....X
+X..S...X..G...X..G..X....X
+X......X......X.....X....X
+XXXXXXXX......X......XXXXX
+
+M G 2 D
+M G 4 D
+M G 1 D
+M G 3 R
+M G 3 U
+M G 2 D
+M G 4 L
+M G 3 L
+M G 1 U
+M P U
+P
+M P R
+P
+M P D
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P R
+P
+M P R
+P
+M P U
+P
+M P R
+P
+M P R
+P
+M P R
+P
+M P U
+P
+M P R
+P
+M P R
+K
+M G 3 U
+M G 2 U
+M G 4 D
+M G 3 U
+M G 1 L
+M G 2 U
+M G 3 L
+M G 4 L
+M G 3 L
+M G 1 U
+M G 2 D
+M G 3 L
+M G 4 R
+M G 3 L
+M G 1 U
+M G 2 U
+M P D
+P
+M P L
+P
+M P U
+M P U
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P D
+P
+M P L
+P
+M P L
+P
+M P U
+P
+M P L
+P
+M P D
+P
+M P L
+P
+M P L
+P
+M P L
+P
+M P L
+P
+M P U
+P
+M P L
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P R
+P
+M P U
+K
+M G 3 L
+M G 4 L
+M G 3 D
+M G 4 R
+M G 2 U
+M G 1 L
+M G 3 U
+M P U
+P
+M P R
+P
+M P R
+P
+M P D
+P
+M P D
+P
+M P L
+P
+M P D
+P
+M P D
+P
+M P D
+P
+M P L
+P
+M P D
+P
+M P D
+M P R
+P
+M P D
+P
+M P L
+M P D
+M P D
+M P R
+P
+M P R
+P
+M P D
+P
+M P D
+M P D
+P
+M P L
+P
+M P L
+P
+M P D
+P
+M P D
+P
+M P R
+P
+M P R
+P
+M P R
+P
+M P U
+P
+M P R
+P
+M P R
+P
+M P R
+P
+M P R
+M P D
+M P R
+M P U
+M P U
+M P L
+P
+M P U
+M P R
+M P R
+M P U
+M P R
+P
+M P D
+P
+M P D
+P
+M P R
+P
+M P D
+P
+M P R
+P
+M P D
+P
+M P D
+P
+M P R
+P
+M P D
+P
+M P R
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P U
+P
+M P U
+P
+M P R
+P
+M P R
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P L
+P
+M P U
+P
+M P U
+P
+M P R
+P
+M P D
+K
+M G 2 D
+M G 1 L
+M G 4 U
+M G 3 L
+M G 1 D
+M G 2 D
+M G 3 L
+M G 1 R
+M G 4 U
+M G 2 L
+M G 1 D
+M G 4 D
+M G 2 R
+M G 3 D
+M G 1 D
+M G 2 L
+M G 1 L
+M G 3 D
+M G 4 L
+M G 1 D
+M G 2 D
+M G 4 U
+M G 1 L
+M G 3 U
+M G 2 R
+M G 1 U
+M G 4 R
+M P D
+M P L
+M P L
+P
+M P D
+P
+M P D
+P
+M P D
+P
+M P D
+P
+M P R
+M P D
+M P R
+P
+M P R
+P
+M P D
+P
+M P L
+M P D
+M P D
+M P R
+P
+M P R
+P
+M P R
+P
+L
+M P D
+P
+M P D
+P
+M P D
+P
+M P L
+P
+M P L
+M P L
+M P L
+P
+M P U
+P
+M P L
+P
+M P L
+P
+M P L
+M P U
+M P L
+M P D
+M G 1 L
+M G 2 D
+M G 3 R
+M G 4 L
+M G 1 L
+M G 2 L
+M G 1 D
+M G 4 U
+M G 3 R
+M G 2 L
+M G 1 D
+M G 1 L
+M G 4 D
+M G 3 L
+M G 2 L
+M G 1 U
+M G 4 U
+M G 1 L
+M P U
+M G 1 L
+M G 2 R
+M P U
+P
+M G 3 L
+M P L
+P
+M G 4 D
+M G 1 L
+M P U
+P
+M G 3 R
+M G 1 L
+M P U
+P
+M G 2 R
+M G 4 D
+M G 1 L
+M P U
+P
+M P L
+P
+M G 3 U
+M P L
+P
+M P U
+P
+M G 1 L
+M G 2 L
+M G 4 U
+M P L
+P
+M P U
+P
+M G 1 L
+M P R
+P
+M P U
+P
+M G 1 L
+M G 2 R
+M G 3 R
+M P U
+P
+M P R
+P
+M G 1 L
+M G 3 D
+M G 4 D
+M G 2 L
+M G 1 U
+M G 3 L
+M G 4 R
+M G 1 R
+M G 2 L
+M G 3 R
+M G 1 U
+M P R
+P
+M G 4 R
+M G 2 U
+M G 1 L
+M G 3 R
+M G 1 U
+M G 4 R
+M G 2 U
+M G 1 R
+M P D
+P
+M P R
+P
+M G 1 U
+M G 3 L
+M P D
+P
+M G 4 D
+M G 1 R
+M G 2 R
+M P R
+P
+M G 3 R
+M P D
+P
+M G 1 R
+M G 2 D
+M G 4 L
+M P D
+P
+M G 1 U
+M P D
+P
+M G 3 L
+M G 2 L
+M G 1 U
+M P D
+P
+M G 4 U
+M G 3 R
+M G 1 U
+M P D
+P
+M P D
+M G 3 U
+M G 1 R
+M G 2 D
+M P R
+P
+M G 1 D
+M G 4 U
+M G 1 R
+M G 2 R
+M G 3 R
+M G 1 D
+M P L
+M P D
+M P D
+M P D
+P
+M P D
+P
+M P L
+M P D
+P
+M P D
+P
+M P R
+P
+M P R
+P
+M P R
+P
+M P U
+M P R
+M P U
+P
+M P R
+P
+M P R
+M P D
+M P R
+P
+M P U
+P
+M P U
+P
+M P R
+P
+M P U
+M P R
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M P L
+P
+M P L
+M P U
+M P R
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P U
+P
+M P R
+P
+M P U
+P
+M P U
+P
+M G 4 D
+M G 3 U
+M G 2 L
+M G 1 D
+M G 1 D
+M G 4 U
+M G 3 L
+M G 2 R
+M G 1 L
+M G 4 L
+M G 1 L
+M G 4 L
+M G 1 D
+M G 2 R
+M G 3 L
+M G 1 D
+M G 4 R
+M G 2 R
+M G 1 L
+M G 3 L
+M G 4 R
+M G 2 L
+M G 1 D
+M G 3 L
+M G 2 R
+M G 1 D
+M G 4 D
+M G 3 U
